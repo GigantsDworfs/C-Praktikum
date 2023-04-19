@@ -1,0 +1,17 @@
+C:\Users\Deskster\Desktop\Калькулятор\КалькуляторНаСиШарпОтШмакова\КалькуляторНаСиШарпОтШмакова\bin\Debug\net7.0-windows\КалькуляторНаСиШарпОтШмакова.exe
+C:\Users\Deskster\Desktop\Калькулятор\КалькуляторНаСиШарпОтШмакова\КалькуляторНаСиШарпОтШмакова\bin\Debug\net7.0-windows\КалькуляторНаСиШарпОтШмакова.deps.json
+C:\Users\Deskster\Desktop\Калькулятор\КалькуляторНаСиШарпОтШмакова\КалькуляторНаСиШарпОтШмакова\bin\Debug\net7.0-windows\КалькуляторНаСиШарпОтШмакова.runtimeconfig.json
+C:\Users\Deskster\Desktop\Калькулятор\КалькуляторНаСиШарпОтШмакова\КалькуляторНаСиШарпОтШмакова\bin\Debug\net7.0-windows\КалькуляторНаСиШарпОтШмакова.dll
+C:\Users\Deskster\Desktop\Калькулятор\КалькуляторНаСиШарпОтШмакова\КалькуляторНаСиШарпОтШмакова\bin\Debug\net7.0-windows\КалькуляторНаСиШарпОтШмакова.pdb
+C:\Users\Deskster\Desktop\Калькулятор\КалькуляторНаСиШарпОтШмакова\КалькуляторНаСиШарпОтШмакова\obj\Debug\net7.0-windows\КалькуляторНаСиШарпОтШмакова.csproj.AssemblyReference.cache
+C:\Users\Deskster\Desktop\Калькулятор\КалькуляторНаСиШарпОтШмакова\КалькуляторНаСиШарпОтШмакова\obj\Debug\net7.0-windows\КалькуляторНаСиШарпОтШмакова.Form1.resources
+C:\Users\Deskster\Desktop\Калькулятор\КалькуляторНаСиШарпОтШмакова\КалькуляторНаСиШарпОтШмакова\obj\Debug\net7.0-windows\КалькуляторНаСиШарпОтШмакова.csproj.GenerateResource.cache
+C:\Users\Deskster\Desktop\Калькулятор\КалькуляторНаСиШарпОтШмакова\КалькуляторНаСиШарпОтШмакова\obj\Debug\net7.0-windows\КалькуляторНаСиШарпОтШмакова.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deskster\Desktop\Калькулятор\КалькуляторНаСиШарпОтШмакова\КалькуляторНаСиШарпОтШмакова\obj\Debug\net7.0-windows\КалькуляторНаСиШарпОтШмакова.AssemblyInfoInputs.cache
+C:\Users\Deskster\Desktop\Калькулятор\КалькуляторНаСиШарпОтШмакова\КалькуляторНаСиШарпОтШмакова\obj\Debug\net7.0-windows\КалькуляторНаСиШарпОтШмакова.AssemblyInfo.cs
+C:\Users\Deskster\Desktop\Калькулятор\КалькуляторНаСиШарпОтШмакова\КалькуляторНаСиШарпОтШмакова\obj\Debug\net7.0-windows\КалькуляторНаСиШарпОтШмакова.csproj.CoreCompileInputs.cache
+C:\Users\Deskster\Desktop\Калькулятор\КалькуляторНаСиШарпОтШмакова\КалькуляторНаСиШарпОтШмакова\obj\Debug\net7.0-windows\КалькуляторНаСиШарпОтШмакова.dll
+C:\Users\Deskster\Desktop\Калькулятор\КалькуляторНаСиШарпОтШмакова\КалькуляторНаСиШарпОтШмакова\obj\Debug\net7.0-windows\refint\КалькуляторНаСиШарпОтШмакова.dll
+C:\Users\Deskster\Desktop\Калькулятор\КалькуляторНаСиШарпОтШмакова\КалькуляторНаСиШарпОтШмакова\obj\Debug\net7.0-windows\КалькуляторНаСиШарпОтШмакова.pdb
+C:\Users\Deskster\Desktop\Калькулятор\КалькуляторНаСиШарпОтШмакова\КалькуляторНаСиШарпОтШмакова\obj\Debug\net7.0-windows\КалькуляторНаСиШарпОтШмакова.genruntimeconfig.cache
+C:\Users\Deskster\Desktop\Калькулятор\КалькуляторНаСиШарпОтШмакова\КалькуляторНаСиШарпОтШмакова\obj\Debug\net7.0-windows\ref\КалькуляторНаСиШарпОтШмакова.dll
